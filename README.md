@@ -8,8 +8,6 @@ I grabbed the dataset from Kaggle. The dataset consists reviews from Yelp, Amazo
 Below is the url that the datasets is coming from:
 https://www.kaggle.com/datasets/marklvl/sentiment-labelled-sentences-data-set
 
-### Model
--- what model did you use for this dataset. ADD later accuracy of your model. Possible screenshots
+### More info
 
-### Conclusion
--- What I have learned from this model. If I had more time, I would use APIs to grab the data from the source directly.
+See the .pdf file in the mail directory for the full report.
